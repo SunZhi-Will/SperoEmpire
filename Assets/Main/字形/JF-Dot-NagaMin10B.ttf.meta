@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: aa53cbc493579b441ad5bd1766e93dd9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: JF Dot NagaMin 10
+  fontNames:
+  - JF Dot NagaMin 10
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 41f8a166245407a4db8913042c2a2b12, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

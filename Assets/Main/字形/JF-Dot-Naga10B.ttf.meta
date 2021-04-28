@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: aa5e5b7163f68f5428083020ea465ee3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: JF Dot Naga 10
+  fontNames:
+  - JF Dot Naga 10
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d67ebd95a2772994d89533ccf6f50a91, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
